@@ -1,0 +1,15 @@
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.csproj.AssemblyReference.cache
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\obj\Debug\MainWindow.g.cs
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\obj\Debug\App.g.cs
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1_MarkupCompile.cache
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1_MarkupCompile.lref
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.exe.config
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.exe
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.pdb
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\obj\Debug\MainWindow.baml
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.g.resources
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\obj\Debug\Zadanie_1.Properties.Resources.resources
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.csproj.GenerateResource.cache
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.csproj.CoreCompileInputs.cache
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.exe
+C:\Users\Зарина\Desktop\Практическая 5\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.pdb

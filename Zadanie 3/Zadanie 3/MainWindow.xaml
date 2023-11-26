@@ -1,0 +1,51 @@
+﻿<Window x:Class="Zadanie_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="500" ResizeMode="NoResize" FontFamily="Candara">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="89"></RowDefinition>
+
+            <RowDefinition Height="182" ></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Введите число А : " HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,22,333,18" FontSize="17" Grid.ColumnSpan="2" Height="20" Width="134" />
+
+        <TextBlock Text="Введите число Б : "   Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,333,0" FontSize="17" Grid.ColumnSpan="2" Height="21" Width="133"  />
+
+        <TextBlock  Text="    Ответ: " Grid.Row="2"  FontSize="17" HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="15,15,0,12" Width="67" />
+
+        <TextBlock Name="Answer" Grid.Column="1" Grid.Row="2"  FontSize="17" HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="15,0,0,0" Width="125" />
+
+        <TextBlock Name="Answer1" Grid.Column="1" Grid.Row="2"  FontSize="17" HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="188,15,0,12" Width="122" />
+
+
+        <TextBox Name="Dan" Grid.Column="1" HorizontalAlignment="Left" VerticalContentAlignment="Center"  Width="314" BorderThickness="2" Margin="10,10,0,10" Padding="10 0" ></TextBox>
+
+        <TextBox Name="Dan1" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Left" VerticalContentAlignment="Center"  Width="314" BorderThickness="2" Margin="10,10,0,10" Padding="10 0"></TextBox>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Center" Margin="106,0,88,70" Width="300" Grid.ColumnSpan="2">
+            <Button x:Name="BtnOK" Content="OK"
+Width="80" Height="24" Margin="25"
+Background="#fff65a"
+Foreground="Black" IsDefault="True"
+Click="BtnOKClick" >
+            </Button>
+            <Button x:Name="BtnCancel" Content="Cancel"
+Width="80" Height="24" Margin="3"
+Background="#fff65a"
+Foreground="Black" IsCancel="True"
+Click="BtnCancelClick" />
+
+        </StackPanel>
+    </Grid>
+</Window>
